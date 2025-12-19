@@ -71,10 +71,10 @@ This repository is intentionally documentation-heavy and structured to demonstra
 * [What is DevOps](./01-foundation/07-what-is-devops/)
 * [Client–Server Architecture](./01-foundation/08-client-server-architecture/)
 * [Stateless vs Stateful systems](./01-foundation/09-stateless-vs-stateful/)
-* [Monolithic vs Microservices architecture](./01-foundation/)
-* [High Availability vs Fault Tolerance](./01-foundation/10-monolith-vs-microservices/)
-* [Application support and maintenance](./01-foundation/11-high-availability-vs-fault-tolerance/)
-* [Software Development Life Cycle (SDLC)](./01-foundation/12-application-support-maintenance/)
+* [Monolithic vs Microservices architecture](./01-foundation/10-monolith-vs-microservices/)
+* [High Availability vs Fault Tolerance](./01-foundation/11-high-availability-vs-fault-tolerance/)
+* [Application support and maintenance](./01-foundation/12-application-support-maintenance/)
+* [Software Development Life Cycle (SDLC)](./01-foundation/13-software-development-life-cycle/)
 
 ---
 
