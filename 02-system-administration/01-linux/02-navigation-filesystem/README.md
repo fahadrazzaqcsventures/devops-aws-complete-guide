@@ -1,4 +1,4 @@
-# Linux Fundamentals: Navigation & Filesystem (Theory)
+# Navigation & Filesystem (Theory)
 
 ## Purpose
 
@@ -135,5 +135,5 @@ If you cannot move confidently through the filesystem, you cannot operate Linux 
 
 ## Next Step
 
-Proceed to the [**Linux Navigation & Filesystem – Practical Lab**](../../../98-home-lab/labs/01-linux/01-navigation-filesystem/README.md):
+Proceed to the [**Linux Navigation & Filesystem – Practical Lab**](../../../98-home-lab/labs/01-linux/02-navigation-filesystem/README.md):
 

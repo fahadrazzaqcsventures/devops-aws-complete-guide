@@ -75,6 +75,7 @@ This repository is intentionally documentation-heavy and structured to demonstra
 * [High Availability vs Fault Tolerance](./01-foundation/11-high-availability-vs-fault-tolerance/)
 * [Application support and maintenance](./01-foundation/12-application-support-maintenance/)
 * [Software Development Life Cycle (SDLC)](./01-foundation/13-software-development-life-cycle/)
+* [What Is an Operating System](./01-foundation/14-operating-systems/)
 
 ---
 
@@ -82,8 +83,12 @@ This repository is intentionally documentation-heavy and structured to demonstra
 
 #### Linux
 
-* Navigation and directory listing
-* File and directory management
+* **Introduction**
+  * [Linux Operating System](./02-system-administration/01-linux/01-Introduction/01-linux-operating-system/)
+  * [Linux Architecture](./02-system-administration/01-linux/01-Introduction/02-linux-architecture/)
+  * [Linux Boot Process](./02-system-administration/01-linux/01-Introduction/03-linux-boot-process/)
+* [Navigation and directory listing](./02-system-administration/01-linux/02-navigation-filesystem/README.md)
+* [File and directory management](./02-system-administration/01-linux/03-file-and-directory-management/README.md)
 * Viewing and paging files
 * Search and text processing
 * Permissions and ownership
