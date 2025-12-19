@@ -62,17 +62,19 @@ This repository is intentionally documentation-heavy and structured to demonstra
 
 ### 01. Foundation
 
-* How the Internet works
-* Client–Server Architecture
-* What is a server
-* Web server vs Application server
-* Types of applications
-* Monolithic vs Microservices architecture
-* Stateless vs Stateful systems
-* High Availability vs Fault Tolerance
-* Application support and maintenance
-* What is DevOps
-* Software Development Life Cycle (SDLC)
+* [How the Internet works](./01-foundation/01-how-the-internet-works/)
+* [What is a server](./01-foundation/02-what-is-a-server/)
+* [What Is an Application](./01-foundation/03-what-is-an-application/)
+* [Web server vs Application server](./01-foundation/04-web-server-vs-application-server/)
+* [Types of applications](./01-foundation/05-types-of-applications/)
+* [Application Lifecycle](./01-foundation/06-application-lifecycle/)
+* [What is DevOps](./01-foundation/07-what-is-devops/)
+* [Client–Server Architecture](./01-foundation/08-client-server-architecture/)
+* [Stateless vs Stateful systems](./01-foundation/09-stateless-vs-stateful/)
+* [Monolithic vs Microservices architecture](./01-foundation/)
+* [High Availability vs Fault Tolerance](./01-foundation/10-monolith-vs-microservices/)
+* [Application support and maintenance](./01-foundation/11-high-availability-vs-fault-tolerance/)
+* [Software Development Life Cycle (SDLC)](./01-foundation/12-application-support-maintenance/)
 
 ---
 
@@ -333,3 +335,32 @@ This is not a tutorial dump — it is a **career-focused DevOps engineering port
 Aspiring DevOps & Cloud Engineer
 
 Focused on building production-grade systems through hands-on learning, automation, and real-world scenarios.
+
+<!-- devops-aws-complete-guide/
+├── README.md
+├── 01-foundation/
+├── 02-system-administration/
+├── 03-version-control/
+├── 04-networking/
+├── 05-containerization/
+├── 06-cicd/
+├── 07-infrastructure-as-code/
+├── 08-configuration-management/
+├── 09-container-orchestration/
+├── 10-monitoring-logging/
+├── 11-cloud-services/
+├── 12-gitops/
+├── 13-devsecops/
+└── 98-home-lab/
+    ├── README.md
+    ├── docs/
+    │   ├── architecture/
+    │   └── workflows/
+    └── labs/
+        ├── linux/
+        ├── networking/
+        ├── docker/
+        ├── cicd/
+        ├── kubernetes/
+        ├── aws/
+        └── security/ -->
