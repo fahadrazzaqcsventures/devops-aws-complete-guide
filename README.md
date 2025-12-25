@@ -144,6 +144,12 @@ This repository is intentionally documentation-heavy and structured to demonstra
 * Network troubleshooting
 * Nginx reverse proxy
 * Nginx load balancing
+* VPC Peering
+* Transit Gateway
+* VPN
+* Load Balancer types
+* NAT
+* Security Groups
 
 ---
 
@@ -241,6 +247,9 @@ This repository is intentionally documentation-heavy and structured to demonstra
 * Prometheus
 * Grafana
 * Metrics, alerts, and dashboards
+* alerting best practices
+* SLOs/SLIs
+* logging pipelines (ELK stack)
 
 ---
 
@@ -251,6 +260,11 @@ This repository is intentionally documentation-heavy and structured to demonstra
 * IAM and security best practices
 * AWS CLI usage
 * Cost-awareness and cleanup strategies
+* Multi-region deployments and disaster recovery planning
+* Autoscaling
+* caching strategies (Redis/ElastiCache)
+* CDNs (CloudFront)
+* database scaling
 * Hands-on labs
 
 ---
