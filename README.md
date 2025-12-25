@@ -89,19 +89,20 @@ This repository is intentionally documentation-heavy and structured to demonstra
   * [Linux Boot Process](./02-system-administration/01-linux/01-Introduction/03-linux-boot-process/)
 * [Navigation and directory listing](./02-system-administration/01-linux/02-navigation-filesystem/README.md)
 * [File and directory management](./02-system-administration/01-linux/03-file-and-directory-management/README.md)
-* Viewing and paging files
-* Search and text processing
-* Permissions and ownership
-* Process and job management
-* System information and logs
-* Disk, partitions, and filesystems
-* Networking and DNS basics
-* Firewall management
-* Archiving, compression, and synchronization
-* Package management
-* Services, scheduling, and systemd
-* Environment variables and shell
-* Troubleshooting methodology and log analysis
+* [Viewing and paging files](./02-system-administration/01-linux/04-viewing-and-paging-files/README.md)
+* [Search and text processing](./02-system-administration/01-linux/05-search-and-text-processing/README.md)
+* [Permissions and ownership](./02-system-administration/01-linux/06-permissions-and-ownership/README.md)
+* [Process and job management](./02-system-administration/01-linux/07-process-and%20-ob-management/README.md)
+* [System information and logs](./02-system-administration/01-linux/08-system-information-and-logs/README.md)
+* [Disk, partitions, and filesystems](./02-system-administration/01-linux/09-disk-partitions-and-filesystems/README.md)
+* [Networking and DNS basics](./02-system-administration/01-linux/10-networking-and-dns-basics/README.md)
+* [Firewall management](./02-system-administration/01-linux/11-firewall-management/README.md)
+* [Archiving, compression, and synchronization](./02-system-administration/01-linux/12-archiving-compression-and-synchronization/README.md)
+* [Package management](./02-system-administration/01-linux/13-package-management/README.md)
+* [Services, scheduling, and systemd](./02-system-administration/01-linux/14-services-scheduling-and-systemd/README.md)
+* [Environment variables and shell](./02-system-administration/01-linux/15-environment-variables-and-shell/README.md)
+* [Troubleshooting methodology and log analysis](./02-system-administration/01-linux/16-troubleshooting-methodology%20-and-log-analysis/README.md)
+* [Shutdown and reboot]
 
 #### Shell Scripting
 
